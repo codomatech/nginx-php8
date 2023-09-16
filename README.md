@@ -1,5 +1,6 @@
 This is a docker image of the mainline version of nginx and the latest stable version of PHP, 
 configured to work together and serve both static and PHP scripts.
+The image is [publicly available on docker hub](https://hub.docker.com/r/codomatech/nginx-php8).
 
 # How to use
 From the root directory of your site, the command looks like this
